@@ -3,7 +3,7 @@ import psutil
 import time
 import logging
 
-threshold = 10  # Set threshold to 80%
+threshold = 80  # Set threshold to 80%
 
 print("Monitoring CPU usage...")
 
